@@ -3,3 +3,9 @@ server:
 spring:
   application:
     name: itlearn
+  data:
+    redis:
+      host: localhost
+      port: 6379
+      password: yourpassword
+      database: 0
