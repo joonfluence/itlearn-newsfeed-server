@@ -1,4 +1,4 @@
-package com.newsfeed.itlearn.global.redis.config;
+package com.newsfeed.itlearn.global.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
