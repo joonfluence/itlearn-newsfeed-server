@@ -1,4 +1,4 @@
-package com.newsfeed.itlearn.domain.user;
+package com.newsfeed.itlearn.domain.user.entity;
 
 import jakarta.persistence.*;
 import lombok.*;
