@@ -1,5 +1,7 @@
-package com.newsfeed.itlearn.domain.user;
+package com.newsfeed.itlearn.domain.user.service;
 
+import com.newsfeed.itlearn.domain.user.entity.UserEntity;
+import com.newsfeed.itlearn.domain.user.repository.UserEntityRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

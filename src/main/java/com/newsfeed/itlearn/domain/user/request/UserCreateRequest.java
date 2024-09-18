@@ -1,5 +1,6 @@
-package com.newsfeed.itlearn.domain.user;
+package com.newsfeed.itlearn.domain.user.request;
 
+import com.newsfeed.itlearn.domain.user.entity.UserEntity;
 import lombok.Data;
 
 @Data
